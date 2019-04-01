@@ -1,6 +1,6 @@
 Dados utilizados no experimento realizado para o artigo submetido para o Workshop de Teoria, Tecnologias e Aplicações de Slicing para Infraestruturas Softwarizadas (WSlice) - 2019
 
-Os dados disponíveis neste repositório estão sob a licença CC-BY-4.0. Os termos podem ser vistos no arquivo LICENSE.txt no diretório raiz ou no site: https://creativecommons.org/licenses/by/4.0/
+Os dados disponíveis neste repositório estão sob a licença CC-BY-4.0. Os termos podem ser vistos neste arquivo ou no site: https://creativecommons.org/licenses/by/4.0/
 
 Se deseja usar os dados de alguma forma, por favor faça a referência como: Gustavo Marques e Aryadne Guardieiro e Ian Resende e Raquel Lafetá e Rafael Pasquini. "Arcabouço de um Sistema Inteligente de Monitoramento para Cloud Slices" em: Workshop de Teoria, Tecnologias e Aplicações de Slicing para Infraestruturas Softwarizadas (WSlice), 01 de abril de 2019.
 
